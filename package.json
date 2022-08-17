@@ -1,5 +1,5 @@
 {
-  "name": "discord-bot-project-template",
+  "name": "discord-bot-template",
   "version": "1.0.0",
   "description": "A sample admin discord bot",
   "main": "src/index.js",
