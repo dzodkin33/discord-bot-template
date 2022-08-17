@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot-project-template",
+  "version": "1.0.0",
+  "description": "A sample admin discord bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris R",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0"
+  },
+  "keywords": []
+}
